@@ -11,10 +11,8 @@
     <h1>Prácticas de clase/casa Miguel Ángel (TICO II)</h1>
     <h2>Prácticas de clase</h2>
     <ul>
-        <li> <a href="paginabasica/index.html" target="_blank">1- página Básica</a> </li>
-        <li><a href="textosylistas2/index.html" target="_blank">2 - Textos y Listas</a> </li>
-        <li><a href="tablas/index.html">3 - Tablas</a> </li>
+        <li> <a href="formularios/indexhtml" target="_blank">1- Formularios</a> </li>
+        <li><a href="cursojavascript/indexhtml" target="_blank">2 - Curso Javascript</a> </li>
     </ul>
-    
 </body>
 </html>
